@@ -3,7 +3,7 @@
 def countdown(number)
   number = 10
   while number > 0
-  (slepe)
+  sleep 1
   puts "#{number} SECOND(S)!"
   number -= 1
   end
